@@ -1,12 +1,12 @@
-package com.suchaos.taco;
+package com.suchaos.tacos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TacoApplication {
+public class TacosApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TacoApplication.class, args);
+        SpringApplication.run(TacosApplication.class, args);
     }
 }
